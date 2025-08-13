@@ -6,7 +6,7 @@
     // New Delegate(Class): Reference (Pointer) Can Refer To Function or More (Pointer of Function)
     // These Function Must Be Have The SAme Signature Of The Delegate : int(string)
     // Regardless Function Name, Parameters Names Or, Access Modifiers 
-    #endregion
+    #endregion 
 
 
     internal class Program
